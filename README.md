@@ -1,6 +1,8 @@
 # CSSS 2019
 
-Just a quick and dirty way to play with data and ranking using SpringRank.
+This repo contains examples and files for the SFI Complex Systems Summer School workshop on ranking from pairwise comparisons. We're going to rank 20 salsas (preference) and 42 cute baby animals (cuteness).
+
+[Put your results here](https://docs.google.com/spreadsheets/d/1Tac2ZGtH4rQnTnvEVrFTFug3ud22S2JhSlP_5h67LSs/edit?usp=sharing)
 
 Random ints: [link](https://www.random.org/integers/)
 
